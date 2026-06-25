@@ -43,12 +43,10 @@ You can download the Excel workbook from this repository:
 
 If you want to learn how to build practical Excel-based financial models, valuation models, and investment analysis projects, you can explore Mentor Me Careers’ Financial Modeling Course:
 
-https://mentormecareers.com/financial-modeling-course/
 
 ## About Mentor Me Careers
 
 Mentor Me Careers provides practical finance training programs in Financial Modeling, Equity Research, Investment Banking Operations, CFA, ACCA, and AML/KYC.
 
-Website:
-
-https://mentormecareers.com/
+Author: [mentormecareers](https://mentormecareers.com/
+Relvant course: [Financial Modeling](https://mentormecareers.com/financial-modeling-course-with-placement/)
