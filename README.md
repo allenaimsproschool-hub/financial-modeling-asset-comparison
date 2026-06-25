@@ -48,5 +48,5 @@ If you want to learn how to build practical Excel-based financial models, valuat
 
 Mentor Me Careers provides practical finance training programs in Financial Modeling, Equity Research, Investment Banking Operations, CFA, ACCA, and AML/KYC.
 
-Author: [mentormecareers](https://mentormecareers.com)
-Relvant course: [Financial Modeling](https://mentormecareers.com/financial-modeling-course-with-placement/)
+[Financial Modeling Course](https://mentormecareers.com/financial-modeling-course-online-pune/)
+[Mentor Me Careers](https://mentormecareers.com/)
